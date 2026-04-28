@@ -36,11 +36,11 @@ To start, you're going to setup the foundation for your agent in Copilot Studio.
 
 1. In the left nav click **Agents** button to start creating a new agent
 
-    ![create.png](./assets/AgentsLeftNav.png)
+    ![Select agents in left navigation](./assets/AgentsLeftNav.png)
 
 1. Select **Create blank agent**
 
-    ![create-new-agent.png](./assets/createblankagents.png)
+    ![Create blank agent](./assets/createblankagents.png)
 
     > [!NOTE]
     > It could take a minute or two for the agent to fully configure. You'll see a message that says your agent is provisioned when it's ready.
