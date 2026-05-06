@@ -272,7 +272,15 @@ We are going to fix this error in the next steps.
     MCP server that provides tools for managing Zava's product inventory, store locations, and stock operations across multiple retail locations.
     ```
 
-1. Enter the **Server URL**. This should be the URL you opened earlier during the devtunnel steps without the *https://* in front of it and with the */mcp* behind it. For example: *x-3000.x.devtunnels.ms/mcp*.
+    <!-- markdownlint-disable-next-line MD033 -->
+    > [!Alert] It's important to verify the URL in the next step looks like this: x-3000.x.devtunnels.ms/mcp
+    >
+    > If not, the MCP server will not work with your agent.
+    
+1. Enter the **Server URL**. This should be the URL you opened earlier during the devtunnel steps without the *https://* in front of it and with the */mcp* behind it.
+
+For example: *x-3000.x.devtunnels.ms/mcp*.
+
 1. For *Authentication*, select **API key**
 1. Leave the *type* on *Header* and for *Header name* add the following value:
 

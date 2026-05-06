@@ -299,9 +299,9 @@ Now that we have an AI prompt that can classify warranty claims and extract key 
 
     ![Variable Filled](./assets/FlowToolWhen.png)
 
-1. Now we need to give additional details for how AI should pass the required inputs to the flow. To do this, scroll down to the **Inputs** section and select the **Customize** button next to the **Issue Category** input.
+1. Now we need to give additional details for how AI should pass the required inputs to the flow. To do this, scroll down to the **Inputs** section and select the **Additional Details** section below the **Issue Category** input.
 
-    ![Variable Filled](./assets/FlowToolCustIssue.png)
+    ![Variable Filled](./assets/FlowToolCustomize_Issue.png)
 
 1. In the **Description** text box, type
 
@@ -311,9 +311,9 @@ Now that we have an AI prompt that can classify warranty claims and extract key 
 
     ![Variable Filled](./assets/FlowToolIssDesc.png)
 
-1. Select the **Customize** button next to the **Purchase Date** input.
+1. Select the **Additional Details** section below the **Purchase Date** input.
 
-    ![Variable Filled](./assets/FlowToolCustPurcDate.png)
+    ![Variable Filled](./assets/FlowToolCustomize_Purchase.png)
 
 1. In the **Description** text box, type
 
@@ -323,9 +323,9 @@ Now that we have an AI prompt that can classify warranty claims and extract key 
 
     ![Variable Filled](./assets/FlowToolCustPurDateDesc.png)
 
-1. Select the **Customize** button next to the **Coverage Window Days** input.
+1. Select the **Additional Details** section below the **Coverage Window Days** input.
 
-    ![Variable Filled](./assets/FlowToolCustCoverage.png)
+    ![Variable Filled](./assets/FlowToolCustomize_Coverage.png)
 
 1. In the **Description** text box, type
 
